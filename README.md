@@ -1,2 +1,45 @@
-# carpooling-management-system
-A Python-based desktop application for managing ride-sharing services using Tkinter, CustomTkinter, and MySQL. Includes driver and passenger modules, ride booking, user dashboards, and PDF reporting
+# 🚗 Carpooling Management System
+
+A Python-based desktop application that facilitates efficient and eco-friendly ride-sharing. Designed with CustomTkinter and MySQL, it enables drivers and passengers to manage rides, bookings, and profiles in a structured and user-friendly interface.
+
+---
+
+## 📌 Table of Contents
+
+- [Features](#-features)
+- [Screenshots](#-screenshots)
+- [Technologies Used](#-technologies-used)
+- [Getting Started](#-getting-started)
+- [Database Schema](#-database-schema)
+- [Project Structure](#-project-structure)
+- [Future Enhancements](#-future-enhancements)
+- [Contributors](#-contributors)
+- [License](#-license)
+
+---
+
+## ✅ Features
+
+- 🔐 **User Authentication**: Login, registration, and secure password reset.
+- 🚘 **Driver Dashboard**: Add, update, delete rides, and view ride requests.
+- 🧍‍♂️ **Passenger Interaction**: Book rides, view driver details.
+- 📊 **PDF Reports**: Export ride data as downloadable PDF.
+- 📋 **Modular Design**: Easy navigation between Home, Help, and About sections.
+- 🎨 **Custom UI**: Styled using CustomTkinter with a clean and responsive layout.
+
+---
+
+## 🖼️ Screenshots
+
+*((https://drive.google.com/drive/my-drive))*
+
+
+
+🛠 Technologies Used
+Python 3.x
+CustomTkinter
+Tkinter
+MySQL 5.7+
+Pillow (PIL)
+tkcalendar
+ReportLab (for PDF exports)
