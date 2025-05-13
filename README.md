@@ -36,6 +36,8 @@ A Python-based desktop application that facilitates efficient and eco-friendly r
 ## Video reference 
 https://cmich.webex.com/webappng/sites/cmich/recording/1f13c962876c4e3e9c36fea938a468ba/playback
 
+## Code reference
+https://drive.google.com/file/d/1VXEtiRrMDNIzKVDQiD6puRADrepMocaX/view?usp=sharing
 
 
 🛠 Technologies Used
